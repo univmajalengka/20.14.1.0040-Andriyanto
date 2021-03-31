@@ -1,0 +1,12 @@
+program Hello3;
+uses crt;
+
+var
+nama : string;
+
+begin
+writeln('contoh membaca dan menulis inputan');
+writeln('Masukan Nama : Andriyanto');
+
+readln(nama);
+end.
