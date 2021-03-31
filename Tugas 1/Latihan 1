@@ -1,7 +1,0 @@
-program hello;
-uses crt;
-
-begin
-write('hello world');
-readln;
-end.
