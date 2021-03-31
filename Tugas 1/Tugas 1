@@ -22,3 +22,18 @@ writeln(' | ',i,' mod ',j,' |   ',b,'          | ');readln;
 writeln(' -------------------------------------- ');readln;
 readln;
 end.
+
+
+
+
+
+Program Biodata;
+Begin
+writeln('Nama : ANDRIYANTO');
+writeln('NPM : 20.14.1.0040');
+writeln('Alamat : Desa Putridalem');
+writeln('TTL : Majalengka 11 November 2001');
+writeln('No.Hp : 083157106380');
+writeln('Motto : Jangan Menyerah sebelum mencoba');
+readln;
+end.
