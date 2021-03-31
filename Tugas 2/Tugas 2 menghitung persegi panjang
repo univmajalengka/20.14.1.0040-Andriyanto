@@ -1,0 +1,19 @@
+program Tugas2;
+uses crt;
+
+var
+P,L     : integer;
+Luas    : integer;
+
+begin
+write('Masukan Nilai Panjang    : ');readln(P);
+write('Masukan Nilai Lebar      : ');readln(L);
+writeln('Program Menghitung Luas Persegi Panjang');
+writeln('=======================================');
+writeln('Luas = Panjang x Lebar');
+writeln('');
+writeln(' ',P,' * ',L,' = ',(P*L),' ');
+writeln('Maka Luas Persegi Panjang Adalah : ',(P*L));
+
+readln;
+end.
